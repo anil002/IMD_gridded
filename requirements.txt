@@ -1,0 +1,17 @@
+streamlit
+xarray
+numpy
+pandas
+plotly
+scipy
+scikit-learn
+geopandas
+folium
+streamlit-folium
+geopy
+shapely
+statsmodels
+xlsxwriter
+pdfkit
+kaleido
+weasyprint
